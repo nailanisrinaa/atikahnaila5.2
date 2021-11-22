@@ -1,0 +1,50 @@
+.box1 {
+    float: left;
+    background-color: plum;
+    width: 97%;
+    height: 160px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid, plum; 
+    text-align: justify;
+}
+.box2 {
+    float: left;
+    background-color: palegoldenrod;
+    width: 15%;
+    height: 190px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid, palegoldenrod; 
+    text-align: justify;
+}
+.box3 {
+    float: left;
+    background-color: pink;
+    width: 81%;
+    height: 190px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid, pink; 
+    text-align: justify;
+}
+.box4 {
+    float: left;
+    background-color: peachpuff;
+    width: 15%;
+    height: 210px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid, peachpuff; 
+    text-align: justify;
+}
+.box5 {
+    float: left;
+    background-color: peru;
+    width: 81%;
+    height: 210px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid, peru; 
+    text-align: justify;
+} 
